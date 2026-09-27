@@ -1,0 +1,28 @@
+# macOS / system
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Scala / sbt build outputs
+target/
+project/target/
+project/project/target/
+.bsp/
+.metals/
+.bloop/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/settings.json
+
+# Logs / runtime
+logs/
+RUNNING_PID
